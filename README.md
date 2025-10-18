@@ -1,13 +1,16 @@
-# GasTwinFormer: Gaussian Plume-Weighted Twin Transformer for Gas Leak Segmentation
+# GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging
 
-[![ICCV 2025](https://img.shields.io/badge/ICCV-2025-blue)](https://iccv2025.org/)
+[![ICCVW 2025](https://img.shields.io/badge/ICCVW-2025-blue)](https://iccv2025.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2508.15057-b31b1b.svg)](https://arxiv.org/abs/2508.15057)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Official PyTorch implementation** of GASTwinFormer accepted at ICCV 2025.
+**Official PyTorch implementation** of GasTwinFormer accepted at ICCVW 2025.
 
-[Paper]() | [Project Page]() | [Demo]()
+> 📄 **Paper**: [arXiv:2508.15057](https://arxiv.org/abs/2508.15057)  
+> 🌐 **Project Page**: [gastwinformer.github.io](https://gastwinformer.github.io/)  
+> 🎬 **Demo**: See project page for video demonstrations
 
 ## 📋 Overview
 
@@ -48,7 +51,7 @@ cd gastwinformer
 pip install -r requirements.txt
 ```
 
-3. **Install GASTwinFormer**
+3. **Install GasTwinFormer**
 ```bash
 pip install -e .
 ```
@@ -291,9 +294,9 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 ## 📧 Contact
 
 For questions and feedback:
-- **Issues**: [GitHub Issues](https://github.com/yourusername/gastwinformer/issues)
 - **Email**: toqitahamid.sarker@siu.edu
 - **Project Page**: [gastwinformer.github.io](https://gastwinformer.github.io)
+- **GitHub Issues**: For bug reports and feature requests
 
 ---
 

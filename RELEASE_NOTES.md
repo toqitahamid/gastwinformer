@@ -1,8 +1,11 @@
-# GasTwinFormer v1.0.0 - ICCV 2025 Release
+# GasTwinFormer v1.0.0 - ICCVW 2025 Release
 
 ## 🎉 Initial Release
 
-This is the official code release for the paper **"GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging"** accepted at ICCV 2025.
+This is the official code release for the paper **"GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging"** accepted at ICCVW 2025.
+
+📄 **arXiv**: [2508.15057](https://arxiv.org/abs/2508.15057)  
+🌐 **Project Page**: [gastwinformer.github.io](https://gastwinformer.github.io)
 
 **Authors**: Toqi Tahamid Sarker, Mohamed Embaby, Taminul Islam, Amer AbuGhazaleh, Khaled R Ahmed
 

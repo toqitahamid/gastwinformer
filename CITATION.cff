@@ -21,10 +21,14 @@ authors:
     affiliation: "Southern Illinois University Carbondale"
 type: conference-paper
 conference:
-  name: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+  name: "IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)"
 year: 2025
 repository-code: "https://github.com/toqitahamid/gastwinformer"
 url: "https://gastwinformer.github.io"
+identifiers:
+  - type: other
+    value: "arXiv:2508.15057"
+    description: "arXiv preprint"
 keywords:
   - "methane emission"
   - "vision transformer"
