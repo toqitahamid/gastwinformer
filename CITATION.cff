@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging"
+authors:
+  - family-names: "Sarker"
+    given-names: "Toqi Tahamid"
+    email: toqitahamid.sarker@siu.edu
+    affiliation: "Southern Illinois University Carbondale"
+  - family-names: "Embaby"
+    given-names: "Mohamed"
+    email: membaby@ucdavis.edu
+    affiliation: "University of California, Davis"
+  - family-names: "Islam"
+    given-names: "Taminul"
+    affiliation: "Southern Illinois University Carbondale"
+  - family-names: "AbuGhazaleh"
+    given-names: "Amer"
+    affiliation: "Southern Illinois University Carbondale"
+  - family-names: "Ahmed"
+    given-names: "Khaled R"
+    affiliation: "Southern Illinois University Carbondale"
+type: conference-paper
+conference:
+  name: "IEEE/CVF International Conference on Computer Vision (ICCV)"
+year: 2025
+repository-code: "https://github.com/toqitahamid/gastwinformer"
+url: "https://gastwinformer.github.io"
+keywords:
+  - "methane emission"
+  - "vision transformer"
+  - "semantic segmentation"
+  - "optical gas imaging"
+  - "livestock monitoring"
+  - "deep learning"
+license: MIT
+
