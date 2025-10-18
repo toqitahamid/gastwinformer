@@ -268,7 +268,17 @@ If you find this work useful, please cite:
 @inproceedings{sarker2025gastwinformer,
   title={GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging},
   author={Sarker, Toqi Tahamid and Embaby, Mohamed and Islam, Taminul and AbuGhazaleh, Amer and Ahmed, Khaled R},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},
+  year={2025}
+}
+```
+
+Or cite the arXiv preprint:
+```bibtex
+@article{sarker2025gastwinformer,
+  title={GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission Segmentation and Dietary Classification in Optical Gas Imaging},
+  author={Sarker, Toqi Tahamid and Embaby, Mohamed and Islam, Taminul and AbuGhazaleh, Amer and Ahmed, Khaled R},
+  journal={arXiv preprint arXiv:2508.15057},
   year={2025}
 }
 ```

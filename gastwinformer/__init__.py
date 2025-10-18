@@ -6,7 +6,9 @@ in optical gas imaging (OGI).
 
 Paper: "GasTwinFormer: A Hybrid Vision Transformer for Livestock Methane Emission 
        Segmentation and Dietary Classification in Optical Gas Imaging"
-Conference: ICCV 2025
+Conference: ICCVW 2025
+arXiv: 2508.15057
+Project Page: https://gastwinformer.github.io
 Authors: Toqi Tahamid Sarker, Mohamed Embaby, Taminul Islam, Amer AbuGhazaleh, 
          Khaled R Ahmed
 

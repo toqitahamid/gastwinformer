@@ -140,5 +140,5 @@ For questions, please open an issue or contact:
 
 ---
 
-**Enjoy using GASTwinFormer! ⭐ Star us on GitHub if you find this useful!**
+**Enjoy using GasTwinFormer! ⭐ Star us on GitHub if you find this useful!**
 
